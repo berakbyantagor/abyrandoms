@@ -1,0 +1,45 @@
+
+body{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.headertitleleftone {
+  justify-content: right;
+  display: flex;
+  padding: 5;
+  font-size: 14px;
+}
+
+.headertitle {
+  justify-content: left;
+  display: flex;
+  padding: 20;
+}
+
+.header {
+  background-color: #adadad;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+    display: flex;
+}
+
+.randomimagecontainer {
+  text-align: center;
+  margin: 20px;
+}
+
+.imagecontainer {
+  text-align: center;
+  margin: 20px;
+}
+
+.titleimagetext {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}
