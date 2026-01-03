@@ -43,3 +43,15 @@ body{
   font-weight: bold;
   margin-top: 10px;
 }
+
+.footerthingy {
+  background-color: #adadad;
+  padding: 1px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.textofthefooter {
+  font-size: 14px;
+  text-align: left;
+}
