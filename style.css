@@ -54,4 +54,53 @@ body{
 .textofthefooter {
   font-size: 14px;
   text-align: left;
+  margin-left: 20px;
+}
+
+.artworkcontainer {
+  margin: 20px;
+  background-color: #adadad;
+  ;
+}
+
+.artworktext {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #000000;
+  text-align: center;
+  padding: 10px;
+}
+
+.artworkimagecontainer {
+  text-align: center;
+  margin: 0px;
+  justify-content: center;
+  padding: 20px;
+}
+
+.ocimages img{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+
+}
+
+.ocimagecontainer{
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(104, 104, 104);
+
+}
+
+.headerdirection a{
+  justify-content: baseline;
+  display: table;
+  gap: 20px;
+  font-size: 16px;
+  margin-top: 10px;;
+  background-color: rgb(109, 109, 109);
+  padding: 5px;
 }
