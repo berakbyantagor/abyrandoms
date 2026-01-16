@@ -60,7 +60,7 @@ body{
 .artworkcontainer {
   margin: 20px;
   background-color: #adadad;
-  ;
+  padding: 10px;
 }
 
 .artworktext {
@@ -74,9 +74,14 @@ body{
 
 .artworkimagecontainer {
   text-align: center;
-  margin: 0px;
   justify-content: center;
   padding: 20px;
+}
+
+.artworkimagecontainer img{
+  justify-content: center;
+  width: 100%;
+  padding: 20px;;
 }
 
 .ocimages img{
