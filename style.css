@@ -4,6 +4,7 @@ body{
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: italic;
+  background-color: rgb(194, 194, 194);
 }
 
 .headertitleleftone {
@@ -17,6 +18,9 @@ body{
   justify-content: left;
   display: flex;
   padding: 20;
+  color: rgb(62, 255, 33);
+  transform: rotate(-1.1deg); 
+
 }
 
 .header {
@@ -75,6 +79,7 @@ body{
 .artworkimagecontainer {
   text-align: center;
   justify-content: center;
+
   padding: 20px;
 }
 
@@ -108,4 +113,21 @@ body{
   margin-top: 10px;;
   background-color: rgb(109, 109, 109);
   padding: 5px;
+}
+
+.socialmediatitle {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #000000;
+  text-align: left;
+  padding: 10px;
+}
+
+.socialmedianote {
+  font-size: 14px;
+  text-align: left;
+  margin-left: 20px;
+  padding-bottom: 10px;
+  color: rgb(2, 78, 36);
 }
